@@ -120,6 +120,27 @@ img {
 /** END header **/
 
 /** BEGIN content **/
+
+#centerpiece {
+	width: 666px;
+	height:300px; 
+float: center;
+}
+#centerpiece img {}
+	#centerpiece .continue {
+			color: #ffffff;
+			background-color: #DC1000;
+			padding: 5px 10px;
+			display: block;
+			float: left;
+			font-family: Georgia;
+			font-weight: bold;
+			margin-bottom: 25px;
+        			}
+		
+	
+			
+			/*mainis in top */
 #content {
 	width: 666px;
 	float: left;
